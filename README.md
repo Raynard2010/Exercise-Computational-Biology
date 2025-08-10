@@ -1,2 +1,6 @@
-# Exercise-Computational-Biology
-This repository contains an exercise I did in preparation for a quiz of the SCIE6062001 - Computational Biology Course.
+# File Description
+Answer: The answer to the exercise
+
+Question: The question of the exercise
+
+a and b: .fasta files for the exercise
